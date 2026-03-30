@@ -1,0 +1,24 @@
+📋 Inventário de Habilidades Profissionais
+
+1. Habilidades Técnicas (Hard Skills)
+- Tecnologia: Excel (nível básico), Power BI, SQL (SELECT, INSERT, UPDATE, DELETE), Python (nível básico)
+- Idiomas: Inglês (nível básico)
+- Ferramentas/Softwares: Pacote Office, ERP SAP, Canva
+- Áreas específicas: Gestão de projetos, análise financeira, marketing digital
+
+2. Habilidades Interpessoais (Soft Skills)
+- Comunicação clara e objetiva
+- Trabalho em equipe e colaboração
+- Resolução de problemas
+- Liderança e gestão de pessoas
+- Organização e planejamento estratégico
+
+3. Experiências e Conhecimentos Aplicados
+- 8 anos de experiência em vendas, gestão de estoque e atendimento direto ao público
+- Vivência em elaboração de contratos, currículos e edição de documentos
+- Participação em projetos de inovação, melhoria de processos e treinamentos
+- Capacidade de adaptação a novos ambientes e desafios
+
+4. Diferenciais
+- Certificações e Formação: Informática básica, C# completo, Inglês básico, 8º semestre em andamento de Ciências da Computação
+- Aprendizado contínuo: Cursos em Inteligência Artificial (em andamento)
